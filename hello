@@ -1,4 +1,8 @@
 Hello,how are you 
 Hello what are you doing 
 Can we meet tomorrow
+<<<<<<< HEAD
 No
+=======
+Yes we can
+>>>>>>> feature
